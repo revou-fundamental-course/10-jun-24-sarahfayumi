@@ -1,0 +1,44 @@
+.celcius-container {
+    text-align: center;
+}
+
+.result-container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+textarea {
+    resize: none;
+    background-color: #f8f8f8;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    font-family: math;
+    font-size: 15px;
+}
+
+.button{
+    height: 32px;
+    border-radius: 5px;
+}
+
+.green-color {
+    background-color: rgb(12, 233, 12);
+}
+
+.red-color{
+    background-color: rgb(233, 17, 60);
+}
+
+.yellow-color{
+    background-color: yellow;
+}
+
+.subject-info {
+    font-size: 24PX;
+    font-style: italic;
+    font-family: math;
+}
+
+.subject-info2 {
+    font-size: 24px;
+}
